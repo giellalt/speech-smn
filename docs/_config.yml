@@ -1,0 +1,3 @@
+theme: jekyll-theme-minimal
+title: Inari Sami Text-to-Speech
+description: Finite state and Constraint Grammar based Text-to-Speech processing, using a cutting-edge, multi-speaker, multi-language synthesis model.
